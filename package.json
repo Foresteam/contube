@@ -1,0 +1,13 @@
+{
+  "name": "contube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Foresteam",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "node-html-parser": "^5.2.0",
+    "terminal-kit": "^2.4.0"
+  }
+}
